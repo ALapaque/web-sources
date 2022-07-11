@@ -19,7 +19,7 @@
 
 - Photo, icons & illustrations : https://www.reshot.com/
 
-### Photo
+## Photo
 
 - https://unsplash.com/
 - https://www.pexels.com/
@@ -27,7 +27,7 @@
 - https://uxplanet.org/picking-the-right-stock-photo-for-your-next-design-project-91691babeef8
 - AI faces: https://loremfaces.com/?utm_source=swlinks-tw
 
-### Illustrations
+## Illustrations
 
 - https://undraw.co/
 - https://icones8.fr/illustrations
@@ -39,7 +39,7 @@
 - https://galshir.com/pose/
 - https://plus.premast.com/illustrations_pack
 
-### Icons
+## Icons
 
 - https://icons.mono.company/
 - https://icones8.fr/
@@ -55,11 +55,11 @@
 - https://iconoir.com/
 - Google Icons font: https://fonts.google.com/icons?icon.style=Rounded
 
-### SVG
+## SVG
 
 - https://www.svgrepo.com/
 
-### Colors
+## Colors
 
 - https://picular.co/
 - http://khroma.co/generator/
@@ -68,11 +68,11 @@
 - https://coolors.co/
 - AI generated color palette: https://huemint.com/
 
-### Fonts
+## Fonts
 
 - https://beautifulwebtype.com/
 
-### Inspirations
+## Inspirations
 
 - https://scrnshts.club/
 - https://www.uitab.io/
@@ -117,15 +117,15 @@
 - Free newsletter tool with paid tier: https://buttondown.email/
 - Transform your svg into background-image: https://yoksel.github.io/url-encoder/
 
-## Code
+# Code
 
-### Html
+## Html
 
 - https://t.co/xahiOzHOXL
 - https://caniuse.com/
 - Useful HTML Attributes: https://learnpine.com/blog/7-useful-html-attributes-you-may-not-know
 
-### Css
+## Css
 - Check for font locally : https://twitter.com/CSSInRealLife/status/1223153671036440577?s=20
 - https://autoprefixer.github.io/
 - https://brumm.af/shadows
@@ -149,13 +149,13 @@
 - Charts in css : https://chartscss.org/
 - Defensive CSS: https://www.ishadeed.com/article/defensive-css/?utm_source=swlinks-tw
 
-### Javascript
+## Javascript
 
 - 1 line of code : https://1loc.dev/
 - Photo gallery in Vanilla JS : https://photoswipe.com/
 - Free UI avatar for React: https://avvvatars.com/
 
-### Tutos
+## Tutos
 
 - https://dev.to/timothyrobards/getting-started-with-bem-4m93
 - https://dockyard.com/blog/2019/02/14/introducing-hover-hover
