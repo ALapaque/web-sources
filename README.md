@@ -11,7 +11,7 @@
 | [HTML Tools](https://github.com/ALapaque/web-sources/blob/main/README.md#HTML) |
 | [CSS Tools](https://github.com/ALapaque/web-sources/blob/main/README.md#css) |
 | [JavaScript Tools](https://github.com/ALapaque/web-sources/blob/main/README.md#javascript) |
-| [Libraries](https://github.com/ALapaque/web-sources/blob/main/README.md#libraries) |
+| [Tutorials](https://github.com/ALapaque/web-sources/blob/main/README.md#tutorials) |
 | [Music](https://github.com/ALapaque/web-sources/blob/main/README.md#music) |
 
 
@@ -19,7 +19,7 @@
 
 - Photo, icons & illustrations : https://www.reshot.com/
 
-## Photo
+## Photos
 
 - https://unsplash.com/
 - https://www.pexels.com/
@@ -155,7 +155,7 @@
 - Photo gallery in Vanilla JS : https://photoswipe.com/
 - Free UI avatar for React: https://avvvatars.com/
 
-## Tutos
+## Tutorials
 
 - https://dev.to/timothyrobards/getting-started-with-bem-4m93
 - https://dockyard.com/blog/2019/02/14/introducing-hover-hover
