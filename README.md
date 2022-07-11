@@ -1,18 +1,18 @@
 | Summary |
 |---|
-| [Libraries](https://github.com/ALapaque/web-sources/edit/main/README.md#libraries) |
-| [Photos](https://github.com/ALapaque/web-sources/edit/main/README.md#photos) |
-| [Illustrations](https://github.com/ALapaque/web-sources/edit/main/README.md#illustrations) |
-| [Icons](https://github.com/ALapaque/web-sources/edit/main/README.md#icons) |
-| [SVG](https://github.com/ALapaque/web-sources/edit/main/README.md#svg) |
-| [Fonts](https://github.com/ALapaque/web-sources/edit/main/README.md#fonts) |
-| [Inspirations](https://github.com/ALapaque/web-sources/edit/main/README.md#inspirations) |
-| [Tools](https://github.com/ALapaque/web-sources/edit/main/README.md#tools) |
-| [HTML Tools](https://github.com/ALapaque/web-sources/edit/main/README.md#HTML) |
-| [CSS Tools](https://github.com/ALapaque/web-sources/edit/main/README.md#css) |
-| [JavaScript Tools](https://github.com/ALapaque/web-sources/edit/main/README.md#javascript) |
-| [Libraries](https://github.com/ALapaque/web-sources/edit/main/README.md#libraries) |
-| [Music](https://github.com/ALapaque/web-sources/edit/main/README.md#music) |
+| [Libraries](https://github.com/ALapaque/web-sources/blob/main/README.md#libraries) |
+| [Photos](https://github.com/ALapaque/web-sources/blob/main/README.md#photos) |
+| [Illustrations](https://github.com/ALapaque/web-sources/blob/main/README.md#illustrations) |
+| [Icons](https://github.com/ALapaque/web-sources/blob/main/README.md#icons) |
+| [SVG](https://github.com/ALapaque/web-sources/blob/main/README.md#svg) |
+| [Fonts](https://github.com/ALapaque/web-sources/blob/main/README.md#fonts) |
+| [Inspirations](https://github.com/ALapaque/web-sources/blob/main/README.md#inspirations) |
+| [Tools](https://github.com/ALapaque/web-sources/blob/main/README.md#tools) |
+| [HTML Tools](https://github.com/ALapaque/web-sources/blob/main/README.md#HTML) |
+| [CSS Tools](https://github.com/ALapaque/web-sources/blob/main/README.md#css) |
+| [JavaScript Tools](https://github.com/ALapaque/web-sources/blob/main/README.md#javascript) |
+| [Libraries](https://github.com/ALapaque/web-sources/blob/main/README.md#libraries) |
+| [Music](https://github.com/ALapaque/web-sources/blob/main/README.md#music) |
 
 
 ## Libraries
